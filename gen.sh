@@ -6,6 +6,8 @@ for file in source/*.svg; do
 done
 labelsLength=${#labels[@]}
 idsLength=${#ids[@]}
+mkdir assets
+unique=0
 for (( i=0; i<${labelsLength}; i++ )); do
   label="${labels[$i]}"
   name="$(cut -d ' ' -f 1 <<< $label)"
@@ -13,7 +15,9 @@ for (( i=0; i<${labelsLength}; i++ )); do
   y=$(cut -d ' ' -f 3 <<< $label)
   id="${ids[$i]}"
   echo $name, $x, $y, $id
-  # for size in $(seq 12 6 72) ; do
-  # 	echo $size
-  # done
+  inkscape source/cursors.svg -o "assets/${name}.png" --actions "select-all:layers; object-set-attribute:style, display:none; select-clear; select-by-id:${id}; object-set-attribute:style, display:inline"
+  for size in $(seq 12 6 72) ; do
+    ((unique++))
+    # echo $unique
+  done
 done
