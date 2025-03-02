@@ -6,7 +6,7 @@ for file in source/*.svg; do
 done
 labelsLength=${#labels[@]}
 idsLength=${#ids[@]}
-mkdir assets
+mkdir assets assets/images assets/config
 unique=0
 for (( i=0; i<${labelsLength}; i++ )); do
   label="${labels[$i]}"
@@ -15,9 +15,20 @@ for (( i=0; i<${labelsLength}; i++ )); do
   y=$(cut -d ' ' -f 3 <<< $label)
   id="${ids[$i]}"
   echo $name, $x, $y, $id
-  inkscape source/cursors.svg -o "assets/${name}.png" --actions "select-all:layers; object-set-attribute:style, display:none; select-clear; select-by-id:${id}; object-set-attribute:style, display:inline"
-  for size in $(seq 12 6 72) ; do
+  cfile="assets/config/${name}.cursor"
+  > "${cfile}"
+  for size in $(seq 12 12 72) ; do
+    f="assets/images/${unique}.png"
+    xscaled=$(($x*$size/96))
+    yscaled=$(($y*$size/96))
+    inkscape source/cursors.svg -o $f -w $size -h $size --actions "select-all:layers; object-set-attribute:style, display:none; select-clear; select-by-id:${id}; object-set-attribute:style, display:inline"
+    echo "$size $xscaled $yscaled $f" >> $cfile
     ((unique++))
     # echo $unique
   done
+done
+for path in ./assets/config/*.cursor; do
+  base="${path##*/}"
+  name="${base%.*}"
+  xcursorgen $path "dist/cursors/${name}"
 done
