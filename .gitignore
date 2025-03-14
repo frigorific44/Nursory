@@ -1,4 +1,4 @@
 # Assets serves as the intermediate location for PNG files.
-/assets
+assets
 # Possibly temporary, as it represents the packaging of generated assets.
-/dist
+dist/cursors
