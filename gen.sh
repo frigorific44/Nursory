@@ -15,16 +15,17 @@ for (( i=0; i<${labelsLength}; i++ )); do
   name="$(cut -d ' ' -f 1 <<< $label)"
   x=$(cut -d ' ' -f 2 <<< $label)
   y=$(cut -d ' ' -f 3 <<< $label)
+  t=$(cut -d ' ' -f 4 <<< $label)
   id="${ids[$i]}"
   echo $name, $x, $y, $id
   cfile="assets/config/${name}.cursor"
-  > "${cfile}"
+  touch "${cfile}"
   for size in $(seq 12 12 72) ; do
     f="assets/images/${unique}.png"
     xscaled=$(($x*$size/96))
     yscaled=$(($y*$size/96))
     inkscape source/cursors.svg -o $f -w $size -h $size -D --actions "select-all:layers; object-set-attribute:style, display:none; select-clear; select-by-id:${id}; object-set-attribute:style, display:inline"
-    echo "$size $xscaled $yscaled $f" >> $cfile
+    echo "$size $xscaled $yscaled $f $t" >> $cfile
     ((unique++))
     # echo $unique
   done
