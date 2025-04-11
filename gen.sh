@@ -1,3 +1,17 @@
+#!/bin/bash
+
+gcd () {
+  if (( $1 % $2 == 0)); then
+    echo $2
+  else
+    gcd $2 $(( $1 % $2 ))
+  fi
+}
+lcm () {
+  d=$(gcd $1 $2)
+  echo $(( $1 * $2 / $d))
+}
+
 declare -a labels ids
 for file in source/*.svg; do
   echo $file
