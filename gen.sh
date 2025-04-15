@@ -80,7 +80,7 @@ for (( i=0; i<${#layer_labels[@]}; i++ )); do
     f="assets/images/${unique}.png"
     xscaled=$(($x*$size/96))
     yscaled=$(($y*$size/96))
-    # inkscape source/cursors.svg -o $f -w $size -h $size -D --actions "${clear_action}${target}${reveal_action}"
+    inkscape source/cursors.svg -o $f -w $size -h $size -D --actions "${clear_action}${target}${reveal_action}"
     echo "$size $xscaled $yscaled $f $t" >> $cfile
     ((unique++))
   done
@@ -96,7 +96,7 @@ done
 
 # Generate preview.
 mux_cmd="webpmux -frame assets/prev_frames/bg.webp"
-f_delay=0
+f_delay=1
 f_id=0
 for frame_actions in ${actions_by_frame[@]}; do
   if [ ${#frame_actions} != 0 ]; then
@@ -127,4 +127,4 @@ for path in ./assets/config/*.cursor; do
   xcursorgen $path "dist/cursors/${name}"
 done
 # Adds symbolic links to fill in missing cursors.
-# ./addmissing.sh
+./addmissing.sh
