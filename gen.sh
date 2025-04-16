@@ -24,8 +24,6 @@ for file in source/*.svg; do
   mapfile -t -O ${#layer_labels[@]} layer_labels < <(xml sel -t -v '//*[@inkscape:groupmode="layer"]/@inkscape:label' $file)
   mapfile -t -O ${#layer_ids[@]} layer_ids < <(xml sel -t -v '//*[@inkscape:groupmode="layer"]/@id' $file)
 done
-# labelsLength=${#layer_labels[@]}
-# idsLength=${#ids[@]}
 
 # Pre-process animation times.
 declare -A t_totals t_curr
@@ -91,24 +89,27 @@ for (( i=0; i<${#layer_labels[@]}; i++ )); do
       actions_by_frame[$index]="${actions_by_frame[$index]}${target}"
     done
     t_curr["$name"]=$((t_curr["$name"]+$t))
+  else
+    actions_by_frame[0]="${actions_by_frame[0]}${target}"
   fi
 done
 
 # Generate preview.
-mux_cmd="webpmux -frame assets/prev_frames/bg.webp"
+preview_dpi=192
+mux_cmd="webpmux"
 f_delay=1
 f_id=0
 for frame_actions in ${actions_by_frame[@]}; do
   if [ ${#frame_actions} != 0 ]; then
     actions="${clear_action}${frame_actions}${reveal_action}"
-    inkscape source/cursors.svg -o "assets/prev_frames/${f_id}.png" -d 192 --actions "$actions"
+    inkscape source/cursors.svg -o "assets/prev_frames/${f_id}.png" -d $preview_dpi --actions "$actions"
     mux_cmd="${mux_cmd} +${f_delay} -frame assets/prev_frames/${f_id}.webp"
     f_delay=0
     ((f_id++))
   fi
-  f_delay=$((f_delay+gcd_v))
+  f_delay=$(($f_delay+$gcd_v))
 done
-inkscape source/cursors.svg -o "assets/prev_frames/bg.png" -d 192
+mux_cmd="${mux_cmd/ +1 / }"
 mux_cmd="${mux_cmd} +${f_delay} -bgcolor 0,0,0,0 -o preview.webp"
 # As of writing, files cannot be exported to webp format in the CLI,
 # hence the circuitous conversions.
