@@ -1,5 +1,7 @@
 # Nursory
 
+![Nursory Preview](https://raw.githubusercontent.com/frigorific44/Nursory/refs/heads/main/preview.webp)
+
 Nursory is a new kind of cursor—attempting to break free from the bonds of convention, it leans into a more abstract and intuitive design.
 
 ## Building
