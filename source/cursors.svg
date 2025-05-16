@@ -26,15 +26,15 @@
      inkscape:document-units="px"
      showguides="true"
      showgrid="true"
-     inkscape:zoom="4"
-     inkscape:cx="305.25"
-     inkscape:cy="106.25"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="217.08178"
+     inkscape:cy="117.37973"
      inkscape:window-width="1920"
      inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3">
+     inkscape:current-layer="g8">
     <inkscape:grid
        id="grid59"
        units="px"
@@ -1839,7 +1839,7 @@
        style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.99874;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke markers fill"
        id="rect25"
        width="2"
-       height="10"
+       height="11"
        x="359"
        y="77"
        ry="0"
@@ -1848,9 +1848,9 @@
        style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.99874;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke markers fill"
        id="rect26"
        width="2"
-       height="10"
+       height="11"
        x="359"
-       y="57"
+       y="56"
        ry="0"
        inkscape:label="line" />
     <circle
@@ -1905,7 +1905,7 @@
        style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.99874;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke markers fill"
        id="rect22"
        width="2"
-       height="10"
+       height="11"
        x="359"
        y="77"
        ry="0"
@@ -1914,9 +1914,9 @@
        style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.99874;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke markers fill"
        id="rect23"
        width="2"
-       height="10"
+       height="11"
        x="359"
-       y="57"
+       y="56"
        ry="0"
        inkscape:label="line" />
     <circle
@@ -2191,7 +2191,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="vertical-text 48 48"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        original-d="m 16,40 c 6,0 8,-2 8,-7.940918 V 28"
        d="m 17,39 c 5,0 7,-2 7,-6.940918 V 28 m 7,11 c -5,0 -7,-2 -7,-6.940918 V 28 M 17,9 c 5,0 7,2 7,6.940918 V 20 M 31,9 c -5,0 -7,2 -7,6.940918 V 20"
@@ -2226,7 +2227,8 @@
      id="layer3"
      inkscape:label="text 48 48"
      style="display:inline"
-     transform="translate(288,48)">
+     transform="translate(288,48)"
+     sodipodi:insensitive="true">
     <path
        original-d="m 16,40 c 6,0 8,-2 8,-7.940918 V 28"
        d="m 17,39 c 5,0 7,-2 7,-6.940918 V 28 m 7,11 c -5,0 -7,-2 -7,-6.940918 V 28 M 17,9 c 5,0 7,2 7,6.940918 V 20 M 31,9 c -5,0 -7,2 -7,6.940918 V 20"
