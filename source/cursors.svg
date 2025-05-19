@@ -27,14 +27,14 @@
      showguides="true"
      showgrid="true"
      inkscape:zoom="16"
-     inkscape:cx="65.875"
-     inkscape:cy="22.125"
+     inkscape:cx="66.375"
+     inkscape:cy="23.375"
      inkscape:window-width="1920"
      inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g255">
+     inkscape:current-layer="g165">
     <inkscape:grid
        id="grid59"
        units="px"
@@ -65,12 +65,17 @@
        enabled="true"
        visible="true"
        dotted="true" />
+    <sodipodi:guide
+       position="58.990961,224.75411"
+       orientation="0.92387953,0.38268343"
+       id="guide1"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs1">
     <inkscape:path-effect
        effect="offset"
-       id="path-effect260"
+       id="path-effect204"
        is_visible="true"
        lpeversion="1.3"
        linejoin_type="miter"
@@ -81,7 +86,7 @@
        update_on_knot_move="true" />
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect258"
+       id="path-effect202"
        is_visible="true"
        lpeversion="1"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
@@ -96,169 +101,6 @@
        apply_with_radius="true"
        only_selected="true"
        hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect256"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="offset"
-       id="path-effect240"
-       is_visible="true"
-       lpeversion="1.3"
-       linejoin_type="miter"
-       unit="px"
-       offset="-3"
-       miter_limit="4"
-       attempt_force_join="false"
-       update_on_knot_move="true" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect236"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect232"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="offset"
-       id="path-effect224"
-       is_visible="true"
-       lpeversion="1.3"
-       linejoin_type="miter"
-       unit="px"
-       offset="-3"
-       miter_limit="4"
-       attempt_force_join="false"
-       update_on_knot_move="true" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect222"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect220"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="offset"
-       id="path-effect215"
-       is_visible="true"
-       lpeversion="1.3"
-       linejoin_type="miter"
-       unit="px"
-       offset="-3"
-       miter_limit="4"
-       attempt_force_join="false"
-       update_on_knot_move="true" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect211"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect207"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="offset"
-       id="path-effect203"
-       is_visible="true"
-       lpeversion="1.3"
-       linejoin_type="miter"
-       unit="px"
-       offset="-3"
-       miter_limit="4"
-       attempt_force_join="false"
-       update_on_knot_move="true" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect200"
@@ -277,6 +119,17 @@
        only_selected="true"
        hide_knots="false" />
     <inkscape:path-effect
+       effect="offset"
+       id="path-effect198"
+       is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="px"
+       offset="-3"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect196"
        is_visible="true"
@@ -294,37 +147,144 @@
        only_selected="true"
        hide_knots="false" />
     <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect194"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
+       radius="6.8"
+       unit="px"
+       method="bezier"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
        effect="offset"
+       id="path-effect191"
+       is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="px"
+       offset="-3"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect187"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
+       radius="6.8"
+       unit="px"
+       method="bezier"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect183"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
+       radius="6.8"
+       unit="px"
+       method="bezier"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect178"
+       is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="px"
+       offset="-3"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect173"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
+       radius="6.8"
+       unit="px"
+       method="bezier"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect168"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
+       radius="6.8"
+       unit="px"
+       method="bezier"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect141"
+       is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="px"
+       offset="-3"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect139"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
+       radius="6.8"
+       unit="px"
+       method="bezier"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
        id="path-effect132"
        is_visible="true"
-       lpeversion="1.3"
-       linejoin_type="miter"
-       unit="px"
-       offset="-3"
-       miter_limit="4"
-       attempt_force_join="false"
-       update_on_knot_move="true" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect127"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect122"
-       is_visible="true"
        lpeversion="1"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
        radius="6.8"
@@ -340,7 +300,7 @@
        hide_knots="false" />
     <inkscape:path-effect
        effect="offset"
-       id="path-effect119"
+       id="path-effect127"
        is_visible="true"
        lpeversion="1.3"
        linejoin_type="miter"
@@ -349,6 +309,23 @@
        miter_limit="4"
        attempt_force_join="false"
        update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect120"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
+       radius="6.8"
+       unit="px"
+       method="bezier"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect116"
@@ -367,9 +344,37 @@
        only_selected="true"
        hide_knots="false" />
     <inkscape:path-effect
-       effect="fillet_chamfer"
+       effect="offset"
        id="path-effect112"
        is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="px"
+       offset="-3"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect106"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
+       radius="6.8"
+       unit="px"
+       method="bezier"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect101"
+       is_visible="true"
        lpeversion="1"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
        radius="6.8"
@@ -385,36 +390,36 @@
        hide_knots="false" />
     <inkscape:path-effect
        effect="offset"
-       id="path-effect108"
-       is_visible="true"
-       lpeversion="1.3"
-       linejoin_type="miter"
-       unit="px"
-       offset="-3"
-       miter_limit="4"
-       attempt_force_join="false"
-       update_on_knot_move="true" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect104"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
        id="path-effect92"
        is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="px"
+       offset="-3"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect85"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
+       radius="6.8"
+       unit="px"
+       method="bezier"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect78"
+       is_visible="true"
        lpeversion="1"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
        radius="6.8"
@@ -430,36 +435,19 @@
        hide_knots="false" />
     <inkscape:path-effect
        effect="offset"
-       id="path-effect69"
-       is_visible="true"
-       lpeversion="1.3"
-       linejoin_type="miter"
-       unit="px"
-       offset="-3"
-       miter_limit="4"
-       attempt_force_join="false"
-       update_on_knot_move="true" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect64"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
        id="path-effect59"
        is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="px"
+       offset="-3"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect56"
+       is_visible="true"
        lpeversion="1"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
        radius="6.8"
@@ -474,9 +462,26 @@
        only_selected="true"
        hide_knots="false" />
     <inkscape:path-effect
-       effect="offset"
+       effect="fillet_chamfer"
        id="path-effect52"
        is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
+       radius="6.8"
+       unit="px"
+       method="bezier"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect47"
+       is_visible="true"
        lpeversion="1.3"
        linejoin_type="miter"
        unit="px"
@@ -486,7 +491,7 @@
        update_on_knot_move="true" />
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect50"
+       id="path-effect43"
        is_visible="true"
        lpeversion="1"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
@@ -503,7 +508,7 @@
        hide_knots="false" />
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect47"
+       id="path-effect37"
        is_visible="true"
        lpeversion="1"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
@@ -520,7 +525,7 @@
        hide_knots="false" />
     <inkscape:path-effect
        effect="offset"
-       id="path-effect41"
+       id="path-effect31"
        is_visible="true"
        lpeversion="1.3"
        linejoin_type="miter"
@@ -531,7 +536,7 @@
        update_on_knot_move="true" />
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect35"
+       id="path-effect28"
        is_visible="true"
        lpeversion="1"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
@@ -548,7 +553,7 @@
        hide_knots="false" />
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect31"
+       id="path-effect23"
        is_visible="true"
        lpeversion="1"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
@@ -2955,21 +2960,21 @@
            inkscape:path-effect="#path-effect20;#path-effect22" />
       </g>
       <circle
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="circle264"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle1"
          inkscape:label="radar2"
-         cy="-15.24589"
-         cx="-10.990961"
-         transform="scale(-1)"
-         r="10.075" />
-      <circle
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="circle23"
-         inkscape:label="radar1"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
          r="21.65" />
+      <circle
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle11"
+         inkscape:label="radar1"
+         cy="-14.306929"
+         cx="-10.602031"
+         transform="scale(-1)"
+         r="11.075" />
     </g>
     <rect
        style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
@@ -2982,60 +2987,60 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g29"
+     id="g16"
      inkscape:label="pointer 16 16 40"
      style="display:inline;stroke-width:2;stroke-dasharray:none"
      transform="translate(48)"
      sodipodi:insensitive="true">
     <path
-       id="path23"
+       id="path11"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
        transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
        inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect31" />
+       inkscape:path-effect="#path-effect23" />
     <g
-       id="g28"
+       id="g15"
        clip-path="url(#clipPath23)"
        inkscape:label="inside"
        style="display:inline">
       <g
          inkscape:label="Clip"
-         id="g27">
+         id="g14">
         <path
-           id="path26"
+           id="path13"
            style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
            inkscape:label="inset"
            d="M 3.7207031,8.9160156 V 30.109375 c 0,1.746937 1.3370473,3.083984 3.0839844,3.083984 h 0.3632812 c 1.5822305,0 3.9669013,-0.520994 6.1738283,-1.427734 2.206926,-0.90674 4.26824,-2.214026 5.392578,-3.326172 l 0.197266,-0.195312 c 1.242931,-1.229455 1.243495,-3.053171 0.002,-4.28125 z"
            sodipodi:nodetypes="ccccc"
            transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
            inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-           inkscape:path-effect="#path-effect35;#path-effect41" />
+           inkscape:path-effect="#path-effect28;#path-effect31" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="circle27"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.072;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle14"
          inkscape:label="radar2"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="20.243317"
-         ry="20.243" />
+         rx="20.364843"
+         ry="20.365" />
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="circle28"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.99;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle15"
          inkscape:label="radar1"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="9.5525169"
-         ry="9.5530005" />
+         rx="10.597656"
+         ry="10.598" />
     </g>
     <rect
        style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect28"
+       id="rect15"
        width="48"
        height="48"
        x="0"
@@ -3044,60 +3049,60 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g45"
+     id="g34"
      inkscape:label="pointer 16 16 40"
      style="display:inline;stroke-width:2;stroke-dasharray:none"
      transform="translate(48)"
      sodipodi:insensitive="true">
     <path
-       id="path41"
+       id="path31"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
        transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
        inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect47" />
+       inkscape:path-effect="#path-effect37" />
     <g
-       id="g44"
+       id="g33"
        clip-path="url(#clipPath23)"
        inkscape:label="inside"
        style="display:inline">
       <g
          inkscape:label="Clip"
-         id="g43">
+         id="g32">
         <path
-           id="path43"
+           id="path32"
            style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
            inkscape:label="inset"
            d="M 3.7207031,8.9160156 V 30.109375 c 0,1.746937 1.3370473,3.083984 3.0839844,3.083984 h 0.3632812 c 1.5822305,0 3.9669013,-0.520994 6.1738283,-1.427734 2.206926,-0.90674 4.26824,-2.214026 5.392578,-3.326172 l 0.197266,-0.195312 c 1.242931,-1.229455 1.243495,-3.053171 0.002,-4.28125 z"
            sodipodi:nodetypes="ccccc"
            transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
            inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-           inkscape:path-effect="#path-effect50;#path-effect52" />
+           inkscape:path-effect="#path-effect43;#path-effect47" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="circle43"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.263;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle32"
          inkscape:label="radar2"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="18.917013"
-         ry="18.917" />
+         rx="19.153126"
+         ry="19.153" />
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="circle44"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.954;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle33"
          inkscape:label="radar1"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="8.9496527"
-         ry="8.9499998" />
+         rx="10.046875"
+         ry="10.047" />
     </g>
     <rect
        style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect45"
+       id="rect34"
        width="48"
        height="48"
        x="0"
@@ -3106,60 +3111,60 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g57"
+     id="g51"
      inkscape:label="pointer 16 16 40"
      style="display:inline;stroke-width:2;stroke-dasharray:none"
      transform="translate(48)"
      sodipodi:insensitive="true">
     <path
-       id="path53"
+       id="path47"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
        transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
        inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect59" />
+       inkscape:path-effect="#path-effect52" />
     <g
-       id="g55"
+       id="g49"
        clip-path="url(#clipPath23)"
        inkscape:label="inside"
        style="display:inline">
       <g
          inkscape:label="Clip"
-         id="g54">
+         id="g48">
         <path
-           id="path54"
+           id="path48"
            style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
            inkscape:label="inset"
            d="M 3.7207031,8.9160156 V 30.109375 c 0,1.746937 1.3370473,3.083984 3.0839844,3.083984 h 0.3632812 c 1.5822305,0 3.9669013,-0.520994 6.1738283,-1.427734 2.206926,-0.90674 4.26824,-2.214026 5.392578,-3.326172 l 0.197266,-0.195312 c 1.242931,-1.229455 1.243495,-3.053171 0.002,-4.28125 z"
            sodipodi:nodetypes="ccccc"
            transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
            inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-           inkscape:path-effect="#path-effect64;#path-effect69" />
+           inkscape:path-effect="#path-effect56;#path-effect59" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="circle54"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.529;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle48"
          inkscape:label="radar2"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="17.671093"
-         ry="17.671" />
+         rx="18.014843"
+         ry="18.014999" />
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="circle55"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.882;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle49"
          inkscape:label="radar1"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="8.2664061"
-         ry="8.2659998" />
+         rx="9.4226561"
+         ry="9.4230003" />
     </g>
     <rect
        style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect55"
+       id="rect49"
        width="48"
        height="48"
        x="0"
@@ -3168,60 +3173,58 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g73"
+     id="g63"
      inkscape:label="pointer 16 16 40"
      style="display:inline;stroke-width:2;stroke-dasharray:none"
      transform="translate(48)"
      sodipodi:insensitive="true">
     <path
-       id="path69"
+       id="path59"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
        transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
        inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect92" />
+       inkscape:path-effect="#path-effect78" />
     <g
-       id="g72"
+       id="g62"
        clip-path="url(#clipPath23)"
        inkscape:label="inside"
        style="display:inline">
       <g
          inkscape:label="Clip"
-         id="g71">
+         id="g61">
         <path
-           id="path70"
+           id="path60"
            style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
            inkscape:label="inset"
            d="M 3.7207031,8.9160156 V 30.109375 c 0,1.746937 1.3370473,3.083984 3.0839844,3.083984 h 0.3632812 c 1.5822305,0 3.9669013,-0.520994 6.1738283,-1.427734 2.206926,-0.90674 4.26824,-2.214026 5.392578,-3.326172 l 0.197266,-0.195312 c 1.242931,-1.229455 1.243495,-3.053171 0.002,-4.28125 z"
            sodipodi:nodetypes="ccccc"
            transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
            inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-           inkscape:path-effect="#path-effect104;#path-effect108" />
+           inkscape:path-effect="#path-effect85;#path-effect92" />
       </g>
-      <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="circle71"
+      <circle
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.826;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle61"
          inkscape:label="radar2"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="16.505556"
-         ry="16.506001" />
-      <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="circle72"
+         r="16.950001" />
+      <circle
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.766;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle62"
          inkscape:label="radar1"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="7.5027776"
-         ry="7.5029998" />
+         r="8.7250004" />
     </g>
     <rect
        style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect72"
+       id="rect62"
        width="48"
        height="48"
        x="0"
@@ -3230,60 +3233,184 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g76"
+     id="g66"
      inkscape:label="pointer 16 16 40"
      style="display:inline;stroke-width:2;stroke-dasharray:none"
      transform="translate(48)"
      sodipodi:insensitive="true">
     <path
-       id="path73"
+       id="path63"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
        transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
        inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect112" />
+       inkscape:path-effect="#path-effect101" />
     <g
-       id="g75"
+       id="g65"
        clip-path="url(#clipPath23)"
        inkscape:label="inside"
        style="display:inline">
       <g
          inkscape:label="Clip"
-         id="g74">
+         id="g64">
         <path
-           id="path74"
+           id="path64"
            style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
            inkscape:label="inset"
            d="M 3.7207031,8.9160156 V 30.109375 c 0,1.746937 1.3370473,3.083984 3.0839844,3.083984 h 0.3632812 c 1.5822305,0 3.9669013,-0.520994 6.1738283,-1.427734 2.206926,-0.90674 4.26824,-2.214026 5.392578,-3.326172 l 0.197266,-0.195312 c 1.242931,-1.229455 1.243495,-3.053171 0.002,-4.28125 z"
            sodipodi:nodetypes="ccccc"
            transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
            inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-           inkscape:path-effect="#path-effect116;#path-effect119" />
+           inkscape:path-effect="#path-effect106;#path-effect112" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.12;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle64"
+         inkscape:label="radar2"
+         cy="-14.306929"
+         cx="-10.602031"
+         transform="scale(-1)"
+         rx="15.958593"
+         ry="15.959" />
+      <ellipse
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.6;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle65"
+         inkscape:label="radar1"
+         cy="-14.306929"
+         cx="-10.602031"
+         transform="scale(-1)"
+         rx="7.9539061"
+         ry="7.954" />
+    </g>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect65"
+       width="48"
+       height="48"
+       x="0"
+       y="0"
+       inkscape:label="boundary" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g71"
+     inkscape:label="pointer 16 16 40"
+     style="display:inline;stroke-width:2;stroke-dasharray:none"
+     transform="translate(48)"
+     sodipodi:insensitive="true">
+    <path
+       id="path66"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       inkscape:label="cursor"
+       d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
+       sodipodi:nodetypes="ccccc"
+       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
+       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
+       inkscape:path-effect="#path-effect116" />
+    <g
+       id="g68"
+       clip-path="url(#clipPath23)"
+       inkscape:label="inside"
+       style="display:inline">
+      <g
+         inkscape:label="Clip"
+         id="g67">
+        <path
+           id="path67"
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           inkscape:label="inset"
+           d="M 3.7207031,8.9160156 V 30.109375 c 0,1.746937 1.3370473,3.083984 3.0839844,3.083984 h 0.3632812 c 1.5822305,0 3.9669013,-0.520994 6.1738283,-1.427734 2.206926,-0.90674 4.26824,-2.214026 5.392578,-3.326172 l 0.197266,-0.195312 c 1.242931,-1.229455 1.243495,-3.053171 0.002,-4.28125 z"
+           sodipodi:nodetypes="ccccc"
+           transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
+           inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
+           inkscape:path-effect="#path-effect120;#path-effect127" />
+      </g>
+      <ellipse
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.383;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle67"
+         inkscape:label="radar2"
+         cy="-14.306929"
+         cx="-10.602031"
+         transform="scale(-1)"
+         rx="15.040625"
+         ry="15.041" />
+      <ellipse
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.383;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle68"
+         inkscape:label="radar1"
+         cy="-14.306929"
+         cx="-10.602031"
+         transform="scale(-1)"
+         rx="7.109375"
+         ry="7.1090002" />
+    </g>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect69"
+       width="48"
+       height="48"
+       x="0"
+       y="0"
+       inkscape:label="boundary" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g75"
+     inkscape:label="pointer 16 16 40"
+     style="display:inline;stroke-width:2;stroke-dasharray:none"
+     transform="translate(48)"
+     sodipodi:insensitive="true">
+    <path
+       id="path72"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       inkscape:label="cursor"
+       d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
+       sodipodi:nodetypes="ccccc"
+       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
+       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
+       inkscape:path-effect="#path-effect132" />
+    <g
+       id="g74"
+       clip-path="url(#clipPath23)"
+       inkscape:label="inside"
+       style="display:inline">
+      <g
+         inkscape:label="Clip"
+         id="g73">
+        <path
+           id="path73"
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           inkscape:label="inset"
+           d="M 3.7207031,8.9160156 V 30.109375 c 0,1.746937 1.3370473,3.083984 3.0839844,3.083984 h 0.3632812 c 1.5822305,0 3.9669013,-0.520994 6.1738283,-1.427734 2.206926,-0.90674 4.26824,-2.214026 5.392578,-3.326172 l 0.197266,-0.195312 c 1.242931,-1.229455 1.243495,-3.053171 0.002,-4.28125 z"
+           sodipodi:nodetypes="ccccc"
+           transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
+           inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
+           inkscape:path-effect="#path-effect139;#path-effect141" />
+      </g>
+      <ellipse
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.6;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle73"
+         inkscape:label="radar2"
+         cy="-14.306929"
+         cx="-10.602031"
+         transform="scale(-1)"
+         rx="14.196094"
+         ry="14.196" />
+      <ellipse
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.12;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle74"
-         inkscape:label="radar2"
-         cy="-15.24589"
-         cx="-10.990961"
-         transform="scale(-1)"
-         rx="15.4204"
-         ry="15.42" />
-      <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="circle75"
          inkscape:label="radar1"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="6.6587672"
-         ry="6.6589999" />
+         rx="6.1914062"
+         ry="6.191" />
     </g>
     <rect
        style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect76"
+       id="rect74"
        width="48"
        height="48"
        x="0"
@@ -3292,60 +3419,58 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g82"
+     id="g154"
      inkscape:label="pointer 16 16 40"
      style="display:inline;stroke-width:2;stroke-dasharray:none"
      transform="translate(48)"
      sodipodi:insensitive="true">
     <path
-       id="path76"
+       id="path148"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
        transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
        inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect122" />
+       inkscape:path-effect="#path-effect168" />
     <g
-       id="g80"
+       id="g152"
        clip-path="url(#clipPath23)"
        inkscape:label="inside"
        style="display:inline">
       <g
          inkscape:label="Clip"
-         id="g79">
+         id="g149">
         <path
-           id="path78"
+           id="path149"
            style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
            inkscape:label="inset"
            d="M 3.7207031,8.9160156 V 30.109375 c 0,1.746937 1.3370473,3.083984 3.0839844,3.083984 h 0.3632812 c 1.5822305,0 3.9669013,-0.520994 6.1738283,-1.427734 2.206926,-0.90674 4.26824,-2.214026 5.392578,-3.326172 l 0.197266,-0.195312 c 1.242931,-1.229455 1.243495,-3.053171 0.002,-4.28125 z"
            sodipodi:nodetypes="ccccc"
            transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
            inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-           inkscape:path-effect="#path-effect127;#path-effect132" />
+           inkscape:path-effect="#path-effect173;#path-effect178" />
       </g>
-      <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="circle80"
+      <circle
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.766;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle151"
          inkscape:label="radar2"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="14.415625"
-         ry="14.416" />
-      <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="ellipse1"
+         r="13.425" />
+      <circle
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.826;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle152"
          inkscape:label="radar1"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="5.734375"
-         ry="5.7340002" />
+         r="5.1999998" />
     </g>
     <rect
        style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect80"
+       id="rect152"
        width="48"
        height="48"
        x="0"
@@ -3354,60 +3479,60 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g195"
+     id="g157"
      inkscape:label="pointer 16 16 40"
      style="display:inline;stroke-width:2;stroke-dasharray:none"
      transform="translate(48)"
      sodipodi:insensitive="true">
     <path
-       id="path192"
+       id="path154"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
        transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
        inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect196" />
+       inkscape:path-effect="#path-effect183" />
     <g
-       id="g194"
+       id="g156"
        clip-path="url(#clipPath23)"
        inkscape:label="inside"
        style="display:inline">
       <g
          inkscape:label="Clip"
-         id="g193">
+         id="g155">
         <path
-           id="path193"
+           id="path155"
            style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
            inkscape:label="inset"
            d="M 3.7207031,8.9160156 V 30.109375 c 0,1.746937 1.3370473,3.083984 3.0839844,3.083984 h 0.3632812 c 1.5822305,0 3.9669013,-0.520994 6.1738283,-1.427734 2.206926,-0.90674 4.26824,-2.214026 5.392578,-3.326172 l 0.197266,-0.195312 c 1.242931,-1.229455 1.243495,-3.053171 0.002,-4.28125 z"
            sodipodi:nodetypes="ccccc"
            transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
            inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-           inkscape:path-effect="#path-effect200;#path-effect203" />
+           inkscape:path-effect="#path-effect187;#path-effect191" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="ellipse194"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.882;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle155"
          inkscape:label="radar2"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="13.491233"
-         ry="13.491" />
+         rx="12.727344"
+         ry="12.727" />
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="ellipse2"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.529;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle156"
          inkscape:label="radar1"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="4.7296009"
-         ry="4.73" />
+         rx="4.1351562"
+         ry="4.1350002" />
     </g>
     <rect
        style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect194"
+       id="rect156"
        width="48"
        height="48"
        x="0"
@@ -3416,60 +3541,60 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g206"
+     id="g160"
      inkscape:label="pointer 16 16 40"
      style="display:inline;stroke-width:2;stroke-dasharray:none"
      transform="translate(48)"
      sodipodi:insensitive="true">
     <path
-       id="path203"
+       id="path157"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
        transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
        inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect207" />
+       inkscape:path-effect="#path-effect194" />
     <g
-       id="g205"
+       id="g159"
        clip-path="url(#clipPath23)"
        inkscape:label="inside"
        style="display:inline">
       <g
          inkscape:label="Clip"
-         id="g204">
+         id="g158">
         <path
-           id="path204"
+           id="path158"
            style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
            inkscape:label="inset"
            d="M 3.7207031,8.9160156 V 30.109375 c 0,1.746937 1.3370473,3.083984 3.0839844,3.083984 h 0.3632812 c 1.5822305,0 3.9669013,-0.520994 6.1738283,-1.427734 2.206926,-0.90674 4.26824,-2.214026 5.392578,-3.326172 l 0.197266,-0.195312 c 1.242931,-1.229455 1.243495,-3.053171 0.002,-4.28125 z"
            sodipodi:nodetypes="ccccc"
            transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
            inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-           inkscape:path-effect="#path-effect211;#path-effect215" />
+           inkscape:path-effect="#path-effect196;#path-effect198" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="ellipse205"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.954;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle158"
          inkscape:label="radar2"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="12.647223"
-         ry="12.647" />
+         rx="12.103125"
+         ry="12.103" />
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="ellipse3"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.263;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle159"
          inkscape:label="radar1"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="3.6444445"
-         ry="3.6440001" />
+         rx="2.996875"
+         ry="2.997" />
     </g>
     <rect
        style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect205"
+       id="rect159"
        width="48"
        height="48"
        x="0"
@@ -3478,184 +3603,60 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g218"
+     id="g165"
      inkscape:label="pointer 16 16 40"
      style="display:inline;stroke-width:2;stroke-dasharray:none"
      transform="translate(48)"
      sodipodi:insensitive="true">
     <path
-       id="path215"
+       id="path160"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
        transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
        inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect220" />
+       inkscape:path-effect="#path-effect200" />
     <g
-       id="g217"
+       id="g163"
        clip-path="url(#clipPath23)"
        inkscape:label="inside"
        style="display:inline">
       <g
          inkscape:label="Clip"
-         id="g216">
+         id="g161">
         <path
-           id="path216"
+           id="path161"
            style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
            inkscape:label="inset"
            d="M 3.7207031,8.9160156 V 30.109375 c 0,1.746937 1.3370473,3.083984 3.0839844,3.083984 h 0.3632812 c 1.5822305,0 3.9669013,-0.520994 6.1738283,-1.427734 2.206926,-0.90674 4.26824,-2.214026 5.392578,-3.326172 l 0.197266,-0.195312 c 1.242931,-1.229455 1.243495,-3.053171 0.002,-4.28125 z"
            sodipodi:nodetypes="ccccc"
            transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
            inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-           inkscape:path-effect="#path-effect222;#path-effect224" />
+           inkscape:path-effect="#path-effect202;#path-effect204" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="ellipse217"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.99;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle162"
          inkscape:label="radar2"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="11.883594"
-         ry="11.884" />
+         rx="11.552343"
+         ry="11.552" />
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="ellipse4"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.072;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="circle163"
          inkscape:label="radar1"
-         cy="-15.24589"
-         cx="-10.990961"
+         cy="-14.306929"
+         cx="-10.602031"
          transform="scale(-1)"
-         rx="2.4789062"
-         ry="2.4790001" />
+         rx="1.7851562"
+         ry="1.785" />
     </g>
     <rect
        style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect217"
-       width="48"
-       height="48"
-       x="0"
-       y="0"
-       inkscape:label="boundary" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g227"
-     inkscape:label="pointer 16 16 40"
-     style="display:inline;stroke-width:2;stroke-dasharray:none"
-     transform="translate(48)"
-     sodipodi:insensitive="true">
-    <path
-       id="path224"
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       inkscape:label="cursor"
-       d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
-       sodipodi:nodetypes="ccccc"
-       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect232" />
-    <g
-       id="g226"
-       clip-path="url(#clipPath23)"
-       inkscape:label="inside"
-       style="display:inline">
-      <g
-         inkscape:label="Clip"
-         id="g225">
-        <path
-           id="path225"
-           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-           inkscape:label="inset"
-           d="M 3.7207031,8.9160156 V 30.109375 c 0,1.746937 1.3370473,3.083984 3.0839844,3.083984 h 0.3632812 c 1.5822305,0 3.9669013,-0.520994 6.1738283,-1.427734 2.206926,-0.90674 4.26824,-2.214026 5.392578,-3.326172 l 0.197266,-0.195312 c 1.242931,-1.229455 1.243495,-3.053171 0.002,-4.28125 z"
-           sodipodi:nodetypes="ccccc"
-           transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-           inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-           inkscape:path-effect="#path-effect236;#path-effect240" />
-      </g>
-      <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="ellipse226"
-         inkscape:label="radar2"
-         cy="-15.24589"
-         cx="-10.990961"
-         transform="scale(-1)"
-         rx="11.200347"
-         ry="11.2" />
-      <ellipse
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="ellipse225"
-         inkscape:label="radar1"
-         cy="-15.24589"
-         cx="-10.990961"
-         transform="scale(-1)"
-         rx="2.7329862"
-         ry="2.733" />
-    </g>
-    <rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect226"
-       width="48"
-       height="48"
-       x="0"
-       y="0"
-       inkscape:label="boundary" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g255"
-     inkscape:label="pointer 16 16 40"
-     style="display:inline;stroke-width:2;stroke-dasharray:none"
-     transform="translate(48)"
-     sodipodi:insensitive="true">
-    <path
-       id="path252"
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       inkscape:label="cursor"
-       d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
-       sodipodi:nodetypes="ccccc"
-       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect256" />
-    <g
-       id="g254"
-       clip-path="url(#clipPath23)"
-       inkscape:label="inside"
-       style="display:inline">
-      <g
-         inkscape:label="Clip"
-         id="g253">
-        <path
-           id="path253"
-           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.94888;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-           inkscape:label="inset"
-           d="M 3.7207031,8.9160156 V 30.109375 c 0,1.746937 1.3370473,3.083984 3.0839844,3.083984 h 0.3632812 c 1.5822305,0 3.9669013,-0.520994 6.1738283,-1.427734 2.206926,-0.90674 4.26824,-2.214026 5.392578,-3.326172 l 0.197266,-0.195312 c 1.242931,-1.229455 1.243495,-3.053171 0.002,-4.28125 z"
-           sodipodi:nodetypes="ccccc"
-           transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-           inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-           inkscape:path-effect="#path-effect258;#path-effect260" />
-      </g>
-      <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="ellipse254"
-         inkscape:label="radar2"
-         cy="-15.24589"
-         cx="-10.990961"
-         transform="scale(-1)"
-         rx="10.597483"
-         ry="10.597" />
-      <ellipse
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         id="ellipse253"
-         inkscape:label="radar1"
-         cy="-15.24589"
-         cx="-10.990961"
-         transform="scale(-1)"
-         rx="1.406684"
-         ry="1.4069999" />
-    </g>
-    <rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect254"
+       id="rect163"
        width="48"
        height="48"
        x="0"
