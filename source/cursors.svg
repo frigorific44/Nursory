@@ -2968,7 +2968,7 @@
          transform="scale(-1)"
          r="21.65" />
       <circle
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle11"
          inkscape:label="radar1"
          cy="-14.306929"
@@ -3020,7 +3020,7 @@
            inkscape:path-effect="#path-effect28;#path-effect31" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.072;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle14"
          inkscape:label="radar2"
          cy="-14.306929"
@@ -3029,7 +3029,7 @@
          rx="20.364843"
          ry="20.365" />
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.99;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle15"
          inkscape:label="radar1"
          cy="-14.306929"
@@ -3082,7 +3082,7 @@
            inkscape:path-effect="#path-effect43;#path-effect47" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.263;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle32"
          inkscape:label="radar2"
          cy="-14.306929"
@@ -3091,7 +3091,7 @@
          rx="19.153126"
          ry="19.153" />
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.954;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle33"
          inkscape:label="radar1"
          cy="-14.306929"
@@ -3144,7 +3144,7 @@
            inkscape:path-effect="#path-effect56;#path-effect59" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.529;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle48"
          inkscape:label="radar2"
          cy="-14.306929"
@@ -3153,7 +3153,7 @@
          rx="18.014843"
          ry="18.014999" />
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.882;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle49"
          inkscape:label="radar1"
          cy="-14.306929"
@@ -3206,7 +3206,7 @@
            inkscape:path-effect="#path-effect85;#path-effect92" />
       </g>
       <circle
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.826;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle61"
          inkscape:label="radar2"
          cy="-14.306929"
@@ -3214,7 +3214,7 @@
          transform="scale(-1)"
          r="16.950001" />
       <circle
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.766;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle62"
          inkscape:label="radar1"
          cy="-14.306929"
@@ -3266,7 +3266,7 @@
            inkscape:path-effect="#path-effect106;#path-effect112" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.12;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle64"
          inkscape:label="radar2"
          cy="-14.306929"
@@ -3275,7 +3275,7 @@
          rx="15.958593"
          ry="15.959" />
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.6;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle65"
          inkscape:label="radar1"
          cy="-14.306929"
@@ -3328,7 +3328,7 @@
            inkscape:path-effect="#path-effect120;#path-effect127" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.383;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle67"
          inkscape:label="radar2"
          cy="-14.306929"
@@ -3337,7 +3337,7 @@
          rx="15.040625"
          ry="15.041" />
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.383;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle68"
          inkscape:label="radar1"
          cy="-14.306929"
@@ -3390,7 +3390,7 @@
            inkscape:path-effect="#path-effect139;#path-effect141" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.6;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle73"
          inkscape:label="radar2"
          cy="-14.306929"
@@ -3399,7 +3399,7 @@
          rx="14.196094"
          ry="14.196" />
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.12;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle74"
          inkscape:label="radar1"
          cy="-14.306929"
@@ -3452,7 +3452,7 @@
            inkscape:path-effect="#path-effect173;#path-effect178" />
       </g>
       <circle
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.766;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle151"
          inkscape:label="radar2"
          cy="-14.306929"
@@ -3460,7 +3460,7 @@
          transform="scale(-1)"
          r="13.425" />
       <circle
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.826;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle152"
          inkscape:label="radar1"
          cy="-14.306929"
@@ -3512,7 +3512,7 @@
            inkscape:path-effect="#path-effect187;#path-effect191" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.882;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle155"
          inkscape:label="radar2"
          cy="-14.306929"
@@ -3521,7 +3521,7 @@
          rx="12.727344"
          ry="12.727" />
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.529;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle156"
          inkscape:label="radar1"
          cy="-14.306929"
@@ -3574,7 +3574,7 @@
            inkscape:path-effect="#path-effect196;#path-effect198" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.954;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle158"
          inkscape:label="radar2"
          cy="-14.306929"
@@ -3583,7 +3583,7 @@
          rx="12.103125"
          ry="12.103" />
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.263;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle159"
          inkscape:label="radar1"
          cy="-14.306929"
@@ -3636,7 +3636,7 @@
            inkscape:path-effect="#path-effect202;#path-effect204" />
       </g>
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.99;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle162"
          inkscape:label="radar2"
          cy="-14.306929"
@@ -3645,7 +3645,7 @@
          rx="11.552343"
          ry="11.552" />
       <ellipse
-         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.072;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="circle163"
          inkscape:label="radar1"
          cy="-14.306929"
