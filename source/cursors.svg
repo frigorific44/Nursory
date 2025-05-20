@@ -26,15 +26,15 @@
      inkscape:document-units="px"
      showguides="true"
      showgrid="true"
-     inkscape:zoom="16"
-     inkscape:cx="66.375"
-     inkscape:cy="23.375"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="128.69343"
+     inkscape:cy="118.08683"
      inkscape:window-width="1920"
      inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g165">
+     inkscape:current-layer="layer4">
     <inkscape:grid
        id="grid59"
        units="px"
@@ -69,6 +69,11 @@
        position="58.990961,224.75411"
        orientation="0.92387953,0.38268343"
        id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="152,184"
+       orientation="-0.92387953,-0.38268343"
+       id="guide2"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -2337,8 +2342,8 @@
        inkscape:path-effect="#path-effect48-2" />
     <path
        id="path1-3"
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:3.00094;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke markers fill"
-       d="m 11.15755,28.157552 c 0.07739,-6e-6 11.6849,0 11.6849,0 M 17,34 c 0,-0.07738 0,-11.6849 0,-11.6849"
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:3.00094;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke markers fill"
+       d="m 12.48629,28.691891 c 0.0541,-5e-6 8.169281,0 8.169281,0 m -4.08464,4.084637 c 0,-0.0541 0,-8.169274 0,-8.169274"
        inkscape:label="plus" />
     <rect
        style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
