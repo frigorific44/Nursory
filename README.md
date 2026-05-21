@@ -10,6 +10,10 @@ In order to build the Nursory cursor theme, an up-to-date installation of Inksca
 
 Executing `./gen.sh` will build the cursor theme in the `dist` directory. From there, `dist` can be copied into a user-specific directory like `~/.local/share/icons/` or `~/.icons/` and ideally renamed for clarity, though the theme name contained in the theme configuration is what will show when changing cursor themes.
 
+### Dependencies
+
+The `gen.sh` scripts requires `imagemagick`, `webpmux`, `xorg-xcursorgen`, `xml` from XMLStarlet.
+
 ## Structure
 
 The information required to build the cursor theme from source is contained entirely within the `.svg` files themselves. The source SVG can be split into multiple files as long as they're within the `source` directory, though currently there is only `source/cursors.svg`. Each cursor is defined in its own top-level layer (`<g>` elements). Each layer's label is formatted as:
