@@ -140,13 +140,13 @@ for frame in $(seq $frames); do
     f_delay=1
   fi
   if [ $empty_frame -ne 0 ]; then
-    magick "assets/prev_frames/${frame}-*.png" -layers flatten "assets/prev_frames/${frame}.webp"
+    magick "assets/prev_frames/${frame}-*.png" -background "rgba(0, 0, 0, 0.0)" -layers flatten "assets/prev_frames/${frame}.webp"
     mux_cmd="${mux_cmd} +${f_delay} -frame assets/prev_frames/${frame}.webp"
   fi
 done
 mux_cmd="${mux_cmd/ +1 / }"
 mux_cmd="${mux_cmd} +${f_delay} -bgcolor 0,0,0,0 -o preview.webp"
-echo "$mux_cmd"
+$mux_cmd
 
 # If the directory existed previously, clear its contents for consistency.
 rm -r dist/cursors/*
