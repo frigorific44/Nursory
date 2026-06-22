@@ -18,14 +18,27 @@ lcm () {
   echo $(( $1 * $2 / $d))
 }
 
-declare -a layer_labels layer_ids
-for file in source/*.svg; do
+### Parse the layer names and ids.
+# 
+# The layer names encode cursor configuration info and timings.
+# IDs are used to reference layers in Inkscape commands.
+declare -a layer_labels layer_ids layer_files
+sources=(source/*.svg)
+for i in "${!sources[@]}"; do
+  file="${sources[$i]}"
   echo $file
+  prev_len=${#layer_labels[@]}
   mapfile -t -O ${#layer_labels[@]} layer_labels < <(xml sel -t -v '//*[@inkscape:groupmode="layer"]/@inkscape:label' $file)
   mapfile -t -O ${#layer_ids[@]} layer_ids < <(xml sel -t -v '//*[@inkscape:groupmode="layer"]/@id' $file)
+  n_added=$((${#layer_labels[@]} - $prev_len))
+  for (( j=0; j<$n_added; j++ )); do
+    layer_files+=($i)
+  done
 done
 
-# Pre-process animation times.
+### Pre-process animation times.
+# 
+# Associative arrays to the cumulative length of a cursor's animation.
 declare -A t_totals t_curr
 gcd_v=0
 
@@ -45,23 +58,28 @@ for (( i=0; i<${#layer_labels[@]}; i++ )); do
   fi
 done
 lcm_v=1
-for name in ${!t_totals[@]}; do
+for name in "${!t_totals[@]}"; do
   lcm_v=$(lcm $lcm_v "${t_totals[${name}]}")
 done
 echo GCD: $gcd_v
 echo Timing Totals: ${t_totals[@]}
 echo LCM: $lcm_v
 
+### Generate assets.
+# 
 # If the directory existed previously, clear its contents for consistency.
 rm -r assets/*
 mkdir -p assets/images assets/config assets/prev_frames
-
+# actions_by_frame accumulates actions to include all layers relevant
+# to the animation frame of the preview animation.
 declare -a actions_by_frame
-for n in $(seq $gcd_v $gcd_v $lcm_v); do
-  actions_by_frame+=("")
+frames=$(($lcm_v / gcd_v))
+for x in $(seq $frames); do
+  for y in "${!sources[@]}"; do
+    actions_by_frame+=("")
+  done
 done
 
-# Generate assets.
 unique=0
 for (( i=0; i<${#layer_labels[@]}; i++ )); do
   label="${layer_labels[$i]}"
@@ -70,6 +88,8 @@ for (( i=0; i<${#layer_labels[@]}; i++ )); do
   y=$(cut -d ' ' -f 3 <<< $label)
   t=$(cut -d ' ' -f 4 <<< $label)
   id="${layer_ids[$i]}"
+  source_index="${layer_files[$i]}"
+  source_file="${sources[$source_index]}"
   echo $name, $x, $y, $id
   cfile="assets/config/${name}.cursor"
   touch "${cfile}"
@@ -78,18 +98,21 @@ for (( i=0; i<${#layer_labels[@]}; i++ )); do
     f="assets/images/${unique}.png"
     xscaled=$(($x*$size/96))
     yscaled=$(($y*$size/96))
-    inkscape source/cursors.svg -o $f -w $size -h $size -D --actions "${clear_action}${target}${reveal_action}"
+    inkscape "$source_file" -o $f -w $size -h $size -D --actions "${clear_action}${target}${reveal_action}"
     echo "$size $xscaled $yscaled $f $t" >> $cfile
     ((unique++))
   done
   if [ ${#t} != 0 ]; then
     for j in $(seq ${t_curr["$name"]} ${t_totals["$name"]} $(($lcm_v - 1))); do
-      index=$(($j / $gcd_v))
-      echo Frame: $index
+      offset=$(($source_index * $frames))
+      frame=$(($j / $gcd_v))
+      index=$(($offset + $frame))
+      echo Frame: $frame
       actions_by_frame[$index]="${actions_by_frame[$index]}${target}"
     done
     t_curr["$name"]=$((t_curr["$name"]+$t))
   else
+    # offset=$(($source_index * $frames))
     actions_by_frame[0]="${actions_by_frame[0]}${target}"
   fi
 done
@@ -97,26 +120,33 @@ done
 # Generate preview.
 preview_dpi=192
 mux_cmd="webpmux"
-f_delay=1
-f_id=0
-for frame_actions in ${actions_by_frame[@]}; do
-  if [ ${#frame_actions} != 0 ]; then
-    actions="${clear_action}${frame_actions}${reveal_action}"
-    inkscape source/cursors.svg -o "assets/prev_frames/${f_id}.png" -d $preview_dpi --actions "$actions"
-    mux_cmd="${mux_cmd} +${f_delay} -frame assets/prev_frames/${f_id}.webp"
-    f_delay=0
-    ((f_id++))
-  fi
+f_delay=0
+for frame in $(seq $frames); do
+  empty_frame=0
+  for source_index in "${!sources[@]}"; do
+    empty_frame=1
+    offset=$(($source_index * $frames))
+    index=$(($offset + $frame - 1))
+    frame_actions=${actions_by_frame[$index]}
+    if [ ${#frame_actions} != 0 ]; then
+      actions="${clear_action}${frame_actions}${reveal_action}"
+      file_name="assets/prev_frames/${frame}-${source_index}.png"
+      inkscape "${sources[$source_index]}" -o "${file_name}" -d $preview_dpi --actions "$actions"
+      f_delay=0
+    fi
+  done
   f_delay=$(($f_delay+$gcd_v))
+  if (( "$frame" == "1" )); then
+    f_delay=1
+  fi
+  if [ $empty_frame -ne 0 ]; then
+    magick "assets/prev_frames/${frame}-*.png" -layers flatten "assets/prev_frames/${frame}.webp"
+    mux_cmd="${mux_cmd} +${f_delay} -frame assets/prev_frames/${frame}.webp"
+  fi
 done
 mux_cmd="${mux_cmd/ +1 / }"
 mux_cmd="${mux_cmd} +${f_delay} -bgcolor 0,0,0,0 -o preview.webp"
-# As of writing, files cannot be exported to webp format in the CLI,
-# hence the circuitous conversions.
-for f in ./assets/prev_frames/*.png; do
-  magick "$f" "${f%.*}.webp"  
-done
-$mux_cmd
+echo "$mux_cmd"
 
 # If the directory existed previously, clear its contents for consistency.
 rm -r dist/cursors/*
