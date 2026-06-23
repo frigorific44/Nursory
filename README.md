@@ -2,7 +2,11 @@
 
 ![Nursory Preview](https://raw.githubusercontent.com/frigorific44/Nursory/refs/heads/main/preview.webp)
 
-Nursory is a new kind of cursor, attempting to rethink convention and lean into a more abstract and intuitive design.
+Nursory is a new kind of cursor, attempting to rethink convention and lean into a more abstract design.
+
+I've abided by several tenants developed over the course of its creation. The first is there must be no midtones used—only black and white. This is for easy programmatic recoloring, and ensures strongly distinguished shapes. The second tenant is no hands. Historically, the hand and the arrow have held the same meaning, and in early graphical computers, either the hand or the arrow would be used. For me, the compromise of using both for slightly differentiated meanings is an unsatisfying solution. Therefore, no hands. The final tenant is that each cursor should be singular in its form; more than a layered composition, additions to refine the meaning should be incorporated into the original shape. So a cursor like `context-menu` (though little used) incorporates the menu symbol inside the body of the puck rather than tacking it on outside.
+
+A major consequence of these restrictions is that for several cursors, movement is relied upon to convey their function to the user. Also, in order to have space within the arrow's body, it has been further simplified. The arrow, having lost its fletching, now losses the shaft. Rounded, it's merely a puck. Embrace the puck.
 
 ## Building
 
