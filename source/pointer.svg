@@ -26,15 +26,15 @@
      inkscape:document-units="px"
      showguides="true"
      showgrid="true"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="106.77312"
-     inkscape:cy="16.617009"
+     inkscape:zoom="5.6568544"
+     inkscape:cx="79.195957"
+     inkscape:cy="60.722793"
      inkscape:window-width="1912"
      inkscape:window-height="1042"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg1">
+     inkscape:current-layer="g165">
     <inkscape:grid
        id="grid59"
        units="px"
@@ -112,23 +112,6 @@
        only_selected="true"
        hide_knots="false" />
     <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect200"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
        effect="offset"
        id="path-effect198"
        is_visible="true"
@@ -142,23 +125,6 @@
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect196"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect194"
        is_visible="true"
        lpeversion="1"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
@@ -202,23 +168,6 @@
        only_selected="true"
        hide_knots="false" />
     <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect183"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
        effect="offset"
        id="path-effect178"
        is_visible="true"
@@ -232,23 +181,6 @@
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect173"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect168"
        is_visible="true"
        lpeversion="1"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
@@ -292,23 +224,6 @@
        only_selected="true"
        hide_knots="false" />
     <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect132"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
        effect="offset"
        id="path-effect127"
        is_visible="true"
@@ -322,23 +237,6 @@
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect120"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect116"
        is_visible="true"
        lpeversion="1"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
@@ -382,23 +280,6 @@
        only_selected="true"
        hide_knots="false" />
     <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect101"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
        effect="offset"
        id="path-effect92"
        is_visible="true"
@@ -412,23 +293,6 @@
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect85"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect78"
        is_visible="true"
        lpeversion="1"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
@@ -472,23 +336,6 @@
        only_selected="true"
        hide_knots="false" />
     <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect52"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
        effect="offset"
        id="path-effect47"
        is_visible="true"
@@ -502,23 +349,6 @@
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect43"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect37"
        is_visible="true"
        lpeversion="1"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
@@ -562,23 +392,6 @@
        only_selected="true"
        hide_knots="false" />
     <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect23"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
        effect="offset"
        id="path-effect22"
        is_visible="true"
@@ -592,23 +405,6 @@
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect20"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
-       radius="6.8"
-       unit="px"
-       method="bezier"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="true"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect6"
        is_visible="true"
        lpeversion="1"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.8048072,0,1 @ F,0,1,1,0,8.2894924,0,1 @ F,0,0,1,0,6.8048072,0,1"
@@ -646,9 +442,7 @@
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
-       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect6" />
+       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)" />
     <g
        id="g23"
        clip-path="url(#clipPath23)"
@@ -706,9 +500,7 @@
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
-       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect23" />
+       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)" />
     <g
        id="g15"
        clip-path="url(#clipPath23)"
@@ -768,9 +560,7 @@
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
-       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect37" />
+       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)" />
     <g
        id="g33"
        clip-path="url(#clipPath23)"
@@ -830,9 +620,7 @@
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
-       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect52" />
+       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)" />
     <g
        id="g49"
        clip-path="url(#clipPath23)"
@@ -892,9 +680,7 @@
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
-       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect78" />
+       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)" />
     <g
        id="g62"
        clip-path="url(#clipPath23)"
@@ -952,9 +738,7 @@
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
-       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect101" />
+       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)" />
     <g
        id="g65"
        clip-path="url(#clipPath23)"
@@ -1014,9 +798,7 @@
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
-       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect116" />
+       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)" />
     <g
        id="g68"
        clip-path="url(#clipPath23)"
@@ -1076,9 +858,7 @@
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
-       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect132" />
+       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)" />
     <g
        id="g74"
        clip-path="url(#clipPath23)"
@@ -1138,9 +918,7 @@
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
-       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect168" />
+       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)" />
     <g
        id="g152"
        clip-path="url(#clipPath23)"
@@ -1198,9 +976,7 @@
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
-       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect183" />
+       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)" />
     <g
        id="g156"
        clip-path="url(#clipPath23)"
@@ -1260,9 +1036,7 @@
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
-       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect194" />
+       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)" />
     <g
        id="g159"
        clip-path="url(#clipPath23)"
@@ -1322,9 +1096,7 @@
        inkscape:label="cursor"
        d="M 0,-9.843944e-7 V 30.109982 c 0,3.758191 3.046616,6.804807 6.8048072,6.804807 h 0.3639314 c 4.5781604,0 10.9280674,-2.609963 14.1829144,-5.829516 l 0.199314,-0.197152 c 2.67189,-2.642917 2.671889,-6.927931 0,-9.570848 z"
        sodipodi:nodetypes="ccccc"
-       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)"
-       inkscape:original-d="M 0,-9.843944e-7 V 36.914789 h 15.458231 l 10.93062,-10.812092 z"
-       inkscape:path-effect="#path-effect200" />
+       transform="matrix(0.80386992,0,0,0.8126824,8,8.0000008)" />
     <g
        id="g163"
        clip-path="url(#clipPath23)"
